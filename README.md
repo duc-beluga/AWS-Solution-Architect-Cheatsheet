@@ -1,63 +1,181 @@
 # AWS-Solution-Architect-Cheatsheet
+Quick summary of AWS Solution Architect Exam.
+## Exam Content
 
-# Popular services:
+Reponse types:
 
-## S3
+**Single-choice questions**
 
-## EC2
+**Multiple-choice questions**
 
-## ELB
+Content outline:
 
-## ASG
+**• Domain 1: Design Secure Architectures (30% of scored content)**
 
-## API Gateway
+**• Domain 2: Design Resilient Architectures (26% of scored content)**
 
-## CloudFront
+**• Domain 3: Design High-Performing Architectures (24% of scored content)**
 
-## Firewall Manager
+**• Domain 4: Design Cost-Optimized Architectures (20% of scored content)**
 
-## Lambda 
+## 6 Pillars of the AWS Well-Architected Framework
 
-## EventBridge
+**Operational Excellence**
 
-## Cost Explorer
+**Security**
 
-## Internet Gateway
+**Reliability**
 
-## VPC
+**Performance Efficiency**
 
-## VPC Endpoint
+**Cost Optimization**
 
-## Security Group
+**Sustainability**
 
-## NACL
+## Popular services
 
-## IAM
+**S3**
+Amazon's object storage solution.
 
-## WAF
+**EC2**
+Virtual servers in the cloud.
 
-## AWS Shield
+**ELB**
+Distributes incoming web traffic.
 
-## Route 53
+**ASG**
+Automatically scales EC2 instances.
 
-## SNS
+**API Gateway**
+Manages and monitors APIs.
 
-## SQS
+**CloudFront**
+Content Delivery Network (CDN).
 
-## CloudWatch
+**Firewall Manager**
+Centralized firewall rule management.
 
-## Kinesis Data Firehose
+**Lambda**
+Serverless compute service.
 
-## Kinses Metric Stream
+**EventBridge**
+Serverless event bus service.
 
-## Athena
+**Cost Explorer**
+Visualize AWS spending & usage.
 
-## Redshift
+**Internet Gateway**
+Connects VPC to the internet.
 
-## Beanstalk
+**VPC**
+Virtual private cloud network.
 
-## Cloud Formation
+**VPC Endpoint**
+Private connection to AWS services.
 
-## AWS Quicksight
+**Security Group**
+Virtual firewall for EC2 instances.
 
-## AWS Glue
+**NACL**
+Layer 4 stateless network ACL.
+
+**IAM**
+Manage AWS users & permissions.
+
+**WAF**
+Web application firewall.
+
+**AWS Shield**
+DDoS protection service.
+
+**Route 53**
+Scalable DNS and domain registrar.
+
+**SNS**
+Notification service for distributed systems.
+
+**SQS**
+Managed message queues service.
+
+**CloudWatch**
+Monitoring and observability service.
+
+**Kinesis Data Firehose**
+Load streaming data to other AWS services.
+
+**Kinesis Metric Stream**
+Streams CloudWatch metrics to destinations.
+
+**Athena**
+SQL querying on S3 data.
+
+**Redshift**
+Managed data warehouse service.
+
+**Beanstalk**
+App deployment and management.
+
+**Cloud Formation**
+Infrastructure as code service.
+
+**AWS Quicksight**
+Business analytics service.
+
+**AWS Glue**
+ETL (Extract, Transform, Load) service.
+
+**DynamoDB**
+Managed NoSQL database.
+
+**RDS**
+Relational database service.
+
+**ECS**
+Elastic Container Service.
+
+**EKS**
+Elastic Kubernetes Service.
+
+**SSM**
+Systems Manager for operations.
+
+**Secrets Manager**
+Manage sensitive information.
+
+**Step Functions**
+Serverless workflow service.
+
+**EFS**
+Elastic File System.
+
+**Lightsail**
+Virtual private server offering.
+
+**SageMaker**
+Machine learning platform.
+
+**Polly**
+Text to speech service.
+
+**Rekognition**
+Image and video analysis.
+
+**Textract**
+Extract text and data from documents.
+
+**Translate**
+Machine translation service.
+
+**DocumentDB**
+Managed MongoDB-compatible database.
+
+**AppSync**
+Real-time data for apps via GraphQL.
+
+**Cognito**
+User sign-up, sign-in, and access control.
+
+
+
+
+
