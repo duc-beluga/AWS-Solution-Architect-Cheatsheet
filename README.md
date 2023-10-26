@@ -1,4 +1,4 @@
-# AWS-Solution-Architect-Cheatsheet
+# AWS Solution Architect Cheatsheet
 Quick summary of AWS Solution Architect Exam.
 ## Exam Content
 
